@@ -46,40 +46,6 @@ a. When classifying information, the level of confidentiality is determined by:
     i. Legal, regulatory and contractual obligations. 
 
 
-+-------------------+------------------+---------------------------+---------------------------+
-|**Confidentiality**| **Label**        |  **Classification**       |  **Access**               |
-|     **Level**     |                  |   **Criteria**            | **Restrictions**          |
-+===================+==================+===========================+============================+
-| Public            | For Public       | Making the information    | Information is available  |   
-|                   | Release          | public will not harm      | to the public.            |
-|                   |                  | the organization in       |                           |        
-|                   |                  | any way.                  |                           |
-+-------------------+------------------+---------------------------+---------------------------+
-|                   |                  |                           |                           |
-+-------------------+------------------+---------------------------+---------------------------+
-| Internal Use      | Internal Use     | Unauthorized access       | Information is available  |
-|                   |                  | may cause minor damage    | to all employees and      |   
-|                   |                  | and/or inconvenience      | authorized third parties. |        
-|                   |                  | to the organization.      | 
-+-------------------+------------------+---------------------------+---------------------------+
-|                   |                  |                           |                           |
-+-------------------+------------------+---------------------------+---------------------------+
-| Restricted        | Restricted       | Unauthorized access to    | Information is available  |
-|                   |                  | information may cause     | to a specific group of    |
-|                   |                  | considerable damage to    | employees and authhorized |
-|                   |                  | the business and/or       | third parties.            |
-|                   |                  | the organization's        |                           |
-|                   |                  | reputation.               |                           |           
-+-------------------+------------------+---------------------------+---------------------------+
-|                   |                  |                           |                           |
-+-------------------+------------------+---------------------------+---------------------------+
-| Confidential      |Confidential      | Unauthorized access to    | Information is available  |           
-|                   |                  | information may cause     | only to specific indivi-  |
-|                   |                  | catastrophic damage to    | duals in the              |
-|                   |                  | business and/or the       | organization.             |
-|                   |                  | organization's reputation.|                           |
-+-------------------+------------------+---------------------------+---------------------------+
-
 Table 3: Information Confidentiality Levels
 
 &nbsp;
