@@ -1,5 +1,5 @@
-name: Privacy Management Policy
-acronym: PMP
+name: Privacy Management Policy (Part 1)
+acronym: PMP1
 satisfies:
   TSC:
     - P1.1
@@ -11,7 +11,6 @@ satisfies:
     - P4.3
     - P5.1
     - P5.2
-
 majorRevisions:
   - date: Jun 1 2018
     comment: Initial document
