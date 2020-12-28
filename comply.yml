@@ -3,6 +3,6 @@ filePrefix: myCo
 approvedBranch: master
 tickets:
   github:
-    token: ${{secret.ACCESS_TOKEN}}
+    token: 58882abb08bcb3aa879a5abea1d7a143ec5d5df8
     username: LouisTan
     repo: SOC2
