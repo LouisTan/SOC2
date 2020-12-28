@@ -1,12 +1,29 @@
-name: Encryption Policy
-acronym: EP
-satisfies:
-  TSC:
-    - CC9.9
-majorRevisions:
-  - date: Jun 1 2018
-    comment: Initial document
+% Encryption Policy
+% My Company
+% December 2020
+
 ---
+header-includes: yes
+head-content: "Encryption Policy"
+foot-content: "My Company confidential 2020"
+---
+
+|Standard|Controls Satisfied|
+|-------+--------------------------------------------|
+| TSC | CC9.9 |
+
+Table: Control satisfaction
+
+
+|Date|Comment|
+|---+--------------------------------------------|
+| Jun 1 2018 | Initial document |
+
+Table: Document history
+
+
+\newpage
+
 # Purpose and Scope
 
 a. This policy defines organizational requirements for the use of cryptographic controls, as well as the requirements for cryptographic keys, in order to protect the confidentiality, integrity, authenticity and nonrepudiation of information.
@@ -78,5 +95,7 @@ a. All key management must be performed using software that automatically manage
   i. The key management service must store and backup keys for the entirety of their operational lifetime.
 
   i. The key management service must rotate keys at least once every 12 months.
+
+
 
 

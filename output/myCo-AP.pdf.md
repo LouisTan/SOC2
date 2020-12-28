@@ -1,13 +1,29 @@
-name: Availability Policy
-acronym: AP
-satisfies:
-  TSC:
-    - A1.1
-    - CC9.1
-majorRevisions:
-  - date: Jun 1 2018
-    comment: Initial document
+% Availability Policy
+% My Company
+% December 2020
+
 ---
+header-includes: yes
+head-content: "Availability Policy"
+foot-content: "My Company confidential 2020"
+---
+
+|Standard|Controls Satisfied|
+|-------+--------------------------------------------|
+| TSC | A1.1, CC9.1 |
+
+Table: Control satisfaction
+
+
+|Date|Comment|
+|---+--------------------------------------------|
+| Jun 1 2018 | Initial document |
+
+Table: Document history
+
+
+\newpage
+
 
 # Purpose and Scope
 
@@ -98,3 +114,5 @@ a. Information systems must have an appropriate business continuity plan that me
 +-------------------+------------------+---------------+-------------------+------------------+
 
 Table 3: Recovery Time and Data Loss Limits 
+
+

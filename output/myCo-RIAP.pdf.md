@@ -1,12 +1,29 @@
-name: Risk Assessment Policy
-acronym: RIAP
-satisfies:
-  TSC:
-    - CC9.1
-majorRevisions:
-  - date: Jun 1 2018
-    comment: Initial document
+% Risk Assessment Policy
+% My Company
+% December 2020
+
 ---
+header-includes: yes
+head-content: "Risk Assessment Policy"
+foot-content: "My Company confidential 2020"
+---
+
+|Standard|Controls Satisfied|
+|-------+--------------------------------------------|
+| TSC | CC9.1 |
+
+Table: Control satisfaction
+
+
+|Date|Comment|
+|---+--------------------------------------------|
+| Jun 1 2018 | Initial document |
+
+Table: Document history
+
+
+\newpage
+
 
 # Purpose and Scope
 
@@ -134,4 +151,6 @@ a. *Regular Reviews of Risk Assessment and Risk Treatment*
 a. *Reporting*
 
     i. The results of risk assessment and risk treatment, and all subsequent reviews, shall be documented in a Risk Assessment Report.
+
+
 

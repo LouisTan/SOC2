@@ -1,12 +1,29 @@
-name: Data Classification Policy
-acronym: DCP
-satisfies:
-  TSC:
-    - CC9.9
-majorRevisions:
-  - date: Jun 1 2018
-    comment: Initial document
+% Data Classification Policy
+% My Company
+% December 2020
+
 ---
+header-includes: yes
+head-content: "Data Classification Policy"
+foot-content: "My Company confidential 2020"
+---
+
+|Standard|Controls Satisfied|
+|-------+--------------------------------------------|
+| TSC | CC9.9 |
+
+Table: Control satisfaction
+
+
+|Date|Comment|
+|---+--------------------------------------------|
+| Jun 1 2018 | Initial document |
+
+Table: Document history
+
+
+\newpage
+
 # Appendices 
 
 Appendix A: Handling of Classified Information
@@ -280,6 +297,8 @@ a. Information Transmitted Orally
 
 In this document, controls are implemented cumulatively, meaning that controls for any confidentiality level imply the implementation of controls defined for lower confidentiality levels - if stricted controls are prescribed for a higher confidentiality level, then only such controls are implemented.
 
+
+
 
 
 

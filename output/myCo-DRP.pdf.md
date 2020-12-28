@@ -1,13 +1,29 @@
-name: Disaster Recovery Policy
-acronym: DRP
-satisfies:
-  TSC:
-    - A1.2
-    - A1.3
-majorRevisions:
-  - date: Jun 1 2018
-    comment: Initial document
+% Disaster Recovery Policy
+% My Company
+% December 2020
+
 ---
+header-includes: yes
+head-content: "Disaster Recovery Policy"
+foot-content: "My Company confidential 2020"
+---
+
+|Standard|Controls Satisfied|
+|-------+--------------------------------------------|
+| TSC | A1.2, A1.3 |
+
+Table: Control satisfaction
+
+
+|Date|Comment|
+|---+--------------------------------------------|
+| Jun 1 2018 | Initial document |
+
+Table: Document history
+
+
+\newpage
+
 
 # Purpose and Scope
 
@@ -150,3 +166,4 @@ Specific recovery procedures are described in detail below:
 | task 2:                    |                      |                                    |    
 |                            |                      |                                    |             
 +----------------------------+----------------------+------------------------------------+
+

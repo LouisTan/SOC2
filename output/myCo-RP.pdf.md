@@ -1,14 +1,29 @@
-name: Data Retention Policy
-acronym: RP
-satisfies:
-  TSC:
-    - CC1.2
-    - CC6.5
-    - P4.2
-majorRevisions:
-  - date: Jun 1 2018
-    comment: Initial document
+% Data Retention Policy
+% My Company
+% December 2020
+
 ---
+header-includes: yes
+head-content: "Data Retention Policy"
+foot-content: "My Company confidential 2020"
+---
+
+|Standard|Controls Satisfied|
+|-------+--------------------------------------------|
+| TSC | CC1.2, CC6.5, P4.2 |
+
+Table: Control satisfaction
+
+
+|Date|Comment|
+|---+--------------------------------------------|
+| Jun 1 2018 | Initial document |
+
+Table: Document history
+
+
+\newpage
+
 
 #Appendices
 Appendix A: Retention Periods
@@ -86,3 +101,4 @@ a. Retention and archival periods for information that is created, processed, st
 |                  |                   |                  |                  |                 |
 |                  |                   |                  |                  |                 |
 +------------------+-------------------+------------------+------------------+-----------------+
+

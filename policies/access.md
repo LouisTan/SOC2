@@ -6,12 +6,12 @@ satisfies:
     - CC6.2
     - CC6.3
 majorRevisions:
-  - date: Jan 17 2020
+  - date: Jun 1 2018
     comment: Initial document
 ---
 # Purpose and Scope
 
-a. The purpose of this policy is to define procedures to onboard and offboard users to technical infrastructure in a manner that minimizes the risk of information loss or exposure. 
+a. The purpose of this policy to define procedures to onboard and offboard users to technical infrastructure in a manner that minimizes the risk of information loss or exposure. 
 
 a. This policy applies to all technical infrastructure within the organization. 
 
